@@ -1,4 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <site>
-   <feature url="features/springide.feature_0.0.1.201511191542.jar" id="springide.feature" version="0.0.1.201511191542"/>
+   <description name="springide blueprint">
+      support for blueprint in spring ide osgi
+   </description>
+   <feature url="features/springide.feature_0.0.1.201511191716.jar" id="springide.feature" version="0.0.1.201511191716"/>
 </site>
